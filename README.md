@@ -14,6 +14,8 @@ This repository covers foundational Machine Learning concepts and techniques, in
 6. **Logistic Regression**
 7. **Multivariate Logistic Regression**
 8. **Decision Tree**
+9. **Support Vector Machine (SVM)**
+8. **Random Forest**
 
 ---
 
